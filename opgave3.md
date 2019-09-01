@@ -1,7 +1,8 @@
 # Fem små opgaver - opgave 3
 
 
-* **Definér funktionen** `beregnForhold`:
+* I en javascript fil, tilknyttet til dokumentet opgave3.html
+**Definér funktionen** `beregnForhold`:
 	* Den skal tage imod 2 parametre: `a` og `b`
 
 	* Den skal dividere `a` med `b`
