@@ -12,4 +12,3 @@ Det er IKKE tilladt, at lave en IF-sætning på selve farvekoden. Dvs., hvis de 
 if (currentColor == "#eee") { ... }
 ```
 
-![](Screenshots/Screenshot_Opgave_01_Niveau1.png)
