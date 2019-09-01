@@ -1,9 +1,19 @@
-# Småopgaver 01 (Niveau 2)
+# Fem små opgaver - opgave 2
 
-04-02-2019
+I en ny fil, du kalder for opgave2.html opretter du `<div id="buttons">` 
+Inde i denne opretter du 4 knapper med forskellig tekst, fx. A, B, C og D.
 
-Når én af knapperne trykkes, så lyser den op, mens de andre slukker.
+```html
+  <div id="buttons">
+    <button>A</button>
+    <button>B</button>
+    <button>C</button>
+    <button>D</button>
+  </div>
+```
+
+Når én af knapperne trykkes, skal den skifte farve eller lyse op, mens de andre slukker.
+Det er kun den senest trykkede knap som lyser op.
 
 Når Javascriptet er færdigt, skal det være muligt at tilføje endnu en `<button>` inden i `<div id="buttons">` elementet og så kan man trykke på knappen uden at du er nødt til at lave ændringer i Javascriptet.
 
-![](Screenshots/Screenshot_Opgave_01_Niveau2.png)
