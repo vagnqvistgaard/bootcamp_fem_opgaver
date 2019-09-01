@@ -24,7 +24,7 @@ skjulElementViaCssSelector (".profil  img");
 
 ## Ekstraopgave 1:
 
-*(Hvis du var hurtigt færdig)*
+*(NICE TO HAVE - hvis du var hurtigt færdig)*
 
 * Opret en `"opgave4_ekstra"` fil og løs nedenstående opgave i denne.
 
@@ -45,7 +45,7 @@ skjulElementViaCssSelector (".profil  img");
 
 ## Ekstraopgave 2:
 
-*(Vend evt. tilbage til denne efter opgave 5)*
+*(VERY NICE TO HAVE - vend evt. tilbage til denne efter opgave 5)*
 
 * Opret en `"opgave4_ekstra2"` fil og løs nedenstående opgave i denne.
 
