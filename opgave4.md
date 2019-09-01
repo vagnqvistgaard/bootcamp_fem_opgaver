@@ -1,8 +1,8 @@
 # Fem små opgaver - opgave 4
 
-11-02-2019
 
-* Definér funktionen `skjulElementViaCssSelector`:
+
+* I en javascript fil knyttet til dokumentet opgave4.html, definér funktionen `skjulElementViaCssSelector`:
 
 	* Den skal tage imod ét parameter: `cssSelector`
 
@@ -24,9 +24,9 @@ skjulElementViaCssSelector (".profil  img");
 
 ## Ekstraopgave 1:
 
-*(Der gives ekstra tid til ekstraopaver)*
+*(Hvis du var hurtigt færdig)*
 
-* Opret en `"03_ekstra_1"` mappe under hovedopgaven og kopiér html, js og css filerne.
+* Opret en `"opgave4_ekstra"` fil og løs nedenstående opgave i denne.
 
 * Definér funktionen `skjulElement`:
 
@@ -45,9 +45,10 @@ skjulElementViaCssSelector (".profil  img");
 
 ## Ekstraopgave 2:
 
-*(Der gives ekstra tid til ekstraopaver)*
+*(Vend evt. tilbage til denne efter opgave 5)*
 
-* Opret en `"03_ekstra_2"` mappe under hovedopgaven og kopiér html, js og css filerne fra forrige løsning.
+* Opret en `"opgave4_ekstra2"` fil og løs nedenstående opgave i denne.
+
 
 Redigér dine funktioner, så de kan manipulere flere elementer på én gang.
 
