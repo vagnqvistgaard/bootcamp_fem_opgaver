@@ -1,4 +1,14 @@
-Fem små opgaver 1
+#Fem små opgaver - opgave 1
+
+Opret et html dokument du kalder opgave1.html
+
+Opret en knap på dokumentet.
+
+```html
+<button>knap</button>
+```
+
+Du må gerne give knappen en class eller et id, for at kunne få fat i den med javascript.
 
 Hver gang knappen trykkes, skifter den farve.<br>
 Den skal skifte mellem 2 farver, f.eks. "#eee" (grå) og "#7f7" (grøn).
@@ -11,8 +21,6 @@ if (currentColor == "#eee") { ... }
 ```
 
 
-
-![]Opgaver/Niveau1/01/Screenshots/Screenshot_Opgave_01_Niveau1.png
 
 
 
