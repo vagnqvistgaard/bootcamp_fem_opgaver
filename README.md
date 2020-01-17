@@ -65,6 +65,6 @@ osv.
 ---
 ## **Udlevering af løsninger**
 
-Én til to dage efter opgaven er blevet stillet vil en mulig løsning blive lagt op.
+Én til to dage efter opgaven er blevet stillet vil en mulig løsning blive lagt op på github.
 
 **Hvis du ikke blev færdig** i første omgang, vil jeg råde dig til, at gøre opgaven færdig **inden du kigger på løsningen**.
