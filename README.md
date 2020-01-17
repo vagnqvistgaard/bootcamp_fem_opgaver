@@ -1,38 +1,33 @@
-# **Småopgaver**
+# **Fem små opgaver**
 
 Småopgaver på **forskellige niveauer**, i **HTML, CSS og Javascript**. <br>Generelt skal de kunne løses på **mellem 5 og 45 min**.
 
 ---
 ## **Formål**
 
-Formålet med disse småopgaver er, at **træne** det du har lært og **vedligeholde din viden**. Forhåbentligt vil du efter et stykke tid føle, at **du bliver hurtigere og hurtigere til at løse opgaverne**. At programmere handler ikke kun om **forståelse**. Det er lige så vigtigt, at være **rutineret**.
+Formålet med disse opgaver er, at **træne** det du har lært og **vedligeholde din viden**. Forhåbentligt vil du efter et stykke tid føle, at **du bliver hurtigere og hurtigere til at løse opgaver**. At programmere handler ikke kun om **forståelse**. Det er lige så vigtigt, at være **rutineret**.
 
 ---
 
-## **Hvornår og hvor ofte stilles opgaverne?**
-
-Du kan blive stillet en opgave i tide og utide, helst når du mindst forventer det ;) <br>Dvs. at du kan blive stillet en lille opgave, **mens du har andre fag**, **typisk om morgenen** inden I kører videre med faget, dog kun hvis det er mig (Ady) der har jer eller hvis jeg har aftalt med en kollega, at han/hun stiller jer en opgave.
-
----
 ## **Krav til opgaverne**
 
-Kravene vil selvfølgelig variere fra opgave til opgave, men **følgende gælder altid**:
+Opgavene er forskellige, men **det gælder for alle opgaver, at**:
 
-* Du skal bruge `DOMContentLoaded` eller tilsvarende og du skal kode inden for dens **scope**.
+* du skal bruge `DOMContentLoaded` eller tilsvarende og du skal kode inden for dens **scope**.
 
-* **Din kode skal være ordentlig.** <br>
+* **din kode skal være ordentlig.** <br>
 **Ryk koden ind korrekt**. Hvis du på nuværende tidspunkt ikke føler du magter, at holde styr på det, så lad VSCode formatere din fil (CTRL+SHIFT+P og vælg Format Document).<br>
 Du må gerne lave **kommentarer** som kan give overblik over hvordan din kode er struktureret, men lad være med at efterlade **udkommenteret kode**. Man skal tydeligt kunne se, hvad der foregår i din kode. **Hvis du vil beholde små tests** og lignende, så gem dem i en undermappe (tilhørende opgaven), som hedder "test". En udkommenteret console.log hist og pist skader dog ikke.
 
-* Du skal finde på **ordentlige navne** til dine **variabler** og **funktioner**.<br>Har du f.eks. en pris-variabel, som refererer til et **HTML element**, så kald den helst `priceElement` eller lignende. <br>`price` alene ville være misvisende i dette tilfælde, da de fleste nok ville tro, at variablen indeholder et **tal**.
+* du skal finde på **ordentlige navne** til dine **variabler** og **funktioner**.<br>Har du f.eks. en pris-variabel, som refererer til et **HTML element**, så kald den helst `priceElement` eller lignende. <br>`price` alene ville være misvisende i dette tilfælde, da de fleste nok ville tro, at variablen indeholder et **tal**.
 
-* Du skal forsøge så vidt muligt, at **definere funktioner** til de forskellige handlinger, som f.eks.:
+* du skal forsøge så vidt muligt, at **definere funktioner** til de forskellige handlinger, som f.eks.:
 
 	* Til koden, der opdaterer en del af brugerfladen.
 	* Til koden, der viser/gemmer et element.
 	* Til koden, der skifter til næste element (næste person, næste billede, næste farve, osv).
 
-* Det er **IKKE et krav**, at du koder **udenad**, når du løser småopgaver med mindre du har fået andet at vide. Du må bruge alt hvad du har liggende og du må søge på nettet. Du må dog ikke arbejde sammen med andre. Du snyder kun dig selv, hvis du gør det.
+Det er **IKKE et krav**, at du koder **udenad**, når du løser småopgaver med mindre du har fået andet at vide. Du må bruge alt hvad du har liggende og du må søge på nettet. Du må dog ikke arbejde sammen med andre. Du snyder kun dig selv, hvis du gør det.
 
 ---
 ## **Commit og Push løbende!**
