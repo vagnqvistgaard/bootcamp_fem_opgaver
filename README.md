@@ -47,7 +47,7 @@ Mens du er i gang med at løse en opgave, er det et **krav**, at du **committer 
 ---
 ## **Refleksion efter opgaven**
 
-Når tiden er gået, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Refleksioner" markdown-fil** i roden af dit repository.
+Efter hver opgave, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Refleksioner" markdown-fil** i roden af dit repository.
 
 Her er et **eksempel** på, hvordan indholdet af filen kunne se ud:<br>
 [Skabeloner/Refleksioner.md](/Skabeloner/Refleksioner.md)
