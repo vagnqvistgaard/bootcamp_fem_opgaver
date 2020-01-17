@@ -32,15 +32,15 @@ Det er **IKKE et krav**, at du koder **udenad**, når du løser småopgaver med 
 ---
 ## **Commit og Push løbende!**
 
-Mens du er i gang med at løse en opgave, er det et **krav**, at du **committer på visse tidspunkter**, som f.eks.:
+Mens du er i gang med at løse en opgave, er det et **krav**, at du **committer på visse tidspunkter**, Som eksempel bør du for opgave 1 have minimum føglende commits:
 
-* Et commit med kommentaren **løsning:**  <br>Efter du har løst opgaven, men før du går i gang med at definere funktioner.
+* Et commit med kommentaren **Opgave 1 løsning:**  <br>Efter du har løst opgaven, men før du går i gang med at definere funktioner.
 
-* Et commit med kommentaren **struktur:** <br>Efter du har defineret funktioner og finpudset din kode.<br>
+* Et commit med kommentaren **Opgave 1 struktur:** <br>Efter du har defineret funktioner og finpudset din kode.<br>
 *(Hvis det er helt naturligt for dig, at definere funktioner løbende, så skal du selvfølgelig have lov at gøre det og du behøver derfor ikke at opdele dine commits som foreslået her)*
 
 
-* Et commit med kommentaren **features:** <br>Evt. efter du har tilføjet ekstra features. <br>*(Det er selvfølgelig ikke et krav, at du tilføjer ekstra features, men hvorfor ikke gøre det, hvis du bliver tidligt færdigt?).* 
+* Eventuelt et commit med kommentaren **Opgave 1 features:** <br>Efter du (eventuelt) har tilføjet ekstra features. <br>*(Det er selvfølgelig ikke et krav, at du tilføjer ekstra features, men hvorfor ikke gøre det, hvis du bliver tidligt færdigt?).* 
 
 ***"Jeg glemmer hele tiden at committe"*** er en rigtig **dårlig undskyldning**. Find en løsning. Commits lang tid efter deadline betragtes som at du har svært ved at løse opgaven.
 
