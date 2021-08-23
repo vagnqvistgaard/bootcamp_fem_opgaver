@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     someButton.addEventListener('click', () => {
         someButton.style.backgroundColor = someColors[1];
         someColors.reverse();
-
+        //løsning uden brug af 'if'...
     });
 
 
