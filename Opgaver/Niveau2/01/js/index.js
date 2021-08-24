@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     parentObj.addEventListener('click', (e) => {
 
         for (let i = 0; i < buttonList.length; i++) {
-            buttonList[i].style.backgroundColor = '#eee';
+            buttonList[i].style.backgroundColor = '#eee'; //nulstil alle knapper;
         }
 
         if (e.target.localName == 'button') {    //komp. for klik udenfor buttons;
