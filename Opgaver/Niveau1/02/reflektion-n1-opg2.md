@@ -1,4 +1,4 @@
-opgave n1-opg2, inklusive ekstra;
+opgave n1-opg2, inkl. ekstra;
 
 Opgaven var ikke uoverkommelig; jeg har i den del, der går
 ud på at 'undgå 0' valgt at tjekke for 0 eksplicit; jeg kunne 
