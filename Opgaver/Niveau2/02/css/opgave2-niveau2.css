@@ -1,30 +1,59 @@
 /* opgave2-niveau2.css */
 
-.Main{
+.Container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80vw;
+    /*height: 100vh;*/
+    margin: 0 auto;
+    /*border: 1px black solid; */
+}
+
+.Logo{
+    font-family: sans-serif;
+    color: cornflowerblue;
+    font-weight: bolder;
+    font-size: 6rem;
+}
+
+.Product{
+    width: 50vw;
+    height: 10rem;
+    margin: 20px 0;
+    /*background-color: darkgreen;*/
+}
+
+.Product__name{
+    margin-top: -150px;
+    margin-left: 20px;
+    z-index: 10;
+    font-family: sans-serif;
+    color: aquamarine;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.Product__price{
+    margin-top: 50px;
+    margin-left: 20px;
+    z-index: 10;
+    font-family: sans-serif;
+    color:aquamarine; 
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.Product__img{
+    width: 50vw;
+    height: 10rem;
+}
+
+.Product_counter{
 
 }
 
-.Main__product{
-
-}
-
-.Main__product .Name{
-
-}
-
-.Main__product .Price{
-
-}
-
-.Main___product img{
-
-}
-
-.Main__product .Counter{
-
-}
-
-.Main__product .Buttons{
+.Product_buttons{
     
 }
 
